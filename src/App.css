@@ -1,0 +1,18 @@
+tr {
+  height: 100px;
+  width: 210px;
+}
+
+td {
+  height: 100px;
+  width: 70px;
+}
+
+table,
+tr,
+td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  text-align: center;
+  margin: auto;
+}
